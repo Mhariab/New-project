@@ -1,0 +1,21 @@
+
+#home-section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: greenyellow;
+}
+
+#about-section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: blue;
+}
+
+#service-section{
+    width: 100%;
+    min-height: 100vh;
+    background-color: yellowgreen;
+}
+.bola{
+    border: 1px solid red;
+}

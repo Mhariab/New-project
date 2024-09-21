@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+#heading1{
+    background-color: red;
+}
+.para-one{
+    background-color: blanchedalmond;
+    color:white;
+}
+span{
+    background-color: blueviolet;
+}
+a{
+    background-color: blueviolet;
+    color: white;
+}
+#firstimage{
+    column-width: auto; width: 5px;;
+}
+
+/* This is a first image ID */
+
+.one{
+    color: pink;
+    background-color: antiquewhite;
+}
+.two{
+    color: orange;
+    background-color: olivedrab;
+}
+.three{
+    color: brown;
+    background-color: burlywood;
+}
+.four{
+    color: firebrick;
+    background-color: fuchsia;
+}
+.five{
+    color: aqua;
+    background-color: azure;
+}
+.six{
+    color: black;
+    background-color: blueviolet;
+}
+.seven{
+    color: paleturquoise;
+    background-color: powderblue;
+}
+.para-two span{
+    background-color: aqua;
+    color: blueviolet;
+}
+.para-two .nested-span{
+    background-color: aqua;
+    font-weight: 800;
+    color: blue;
+}

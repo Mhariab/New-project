@@ -1,0 +1,15 @@
+.pseudo p:first-child{
+    background-color: blue;
+    color: white;
+}
+.pseudo p:last-child{
+    background-color: brown;
+    color: azure;
+}
+.pseudo p:nth-of-type(2){
+    background-color: blue;
+}
+.pseudo p:nth-of-type(2n+3){
+    background-color: rgb(226, 54, 154);
+    color: blue;
+}

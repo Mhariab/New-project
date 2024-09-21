@@ -1,0 +1,26 @@
+p{
+    background-color: red;
+}
+p{
+    background-color: blue;
+}
+p{
+    background-color: pink;
+}
+
+#main h1{
+    color: green;
+    font-weight: 900;
+}
+h1{
+    color: purple;
+    font-weight: 600;
+}
+
+#bola p{
+    background-color: pink;
+}
+
+.shodipo p{
+    background-color: orange;
+}
